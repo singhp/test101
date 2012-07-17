@@ -1,3 +1,1 @@
-this is a sample file
-Its updated!
-updated again from master
+this is to resolve merge conflicts
