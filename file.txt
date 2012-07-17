@@ -1,2 +1,2 @@
 inside the clone update
-this is to resolve merge conflicts
+this is to resolve merge conflicts gittraining
